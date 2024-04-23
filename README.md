@@ -1,39 +1,45 @@
-# Taller 1 Typescript
+# Workshop 1 Typescript
 
-Este es un taller sencillo realizado durante la clase del día 18 de abril del 2024 para Riwi
+This is a simple workshop conducted during the class on April 18th, 2024 for Riwi.
 
-## Comenzando 🚀
+## Getting Started 🚀
 
-Puedes clonar este repositorio en tu máquina local
+You can clone this repository to your local machine.
 
-
-### Pre-requisitos 📋
+### Prerequisites 📋
 
 - Node Js
 - Typescript
-- IDE (Visual Studio Code recomendado)
+- IDE (Visual Studio Code recommended)
 
-### Instalación 🔧
+### Installation 🔧
 
-Descarga NodeJs en tu computadora
-Abre el IDE
-Abre la terminal
-Ejecuta el comando : nmp init -y
-Ejecuta el comando : nmp i typescript
-Clona el repositorio
+Download NodeJs on your computer.
+Open the IDE.
+Open the terminal.
+Run the command: npm init -y
+Run the command: npm i typescript
+Clone the repository.
+
+## Running ⚙️
+
+To execute the different files, you must locate yourself in the root and execute the file you want to view:
+ - node <filename>.js
+
+The result will be displayed on the console.
 
 
-## Ejecutando ⚙️
+## Exercises
 
-Para ejecutar los diferentes archivos te debes ubicar en la raiz de y ejecutas el archivo que quieras visualizar:
- - node >nombredearchivoaejecutar>.js
+![alt text](image.png)
 
-Se verá por consola el resultado.
+![alt text](image-1.png)
 
-## Autores ✒️
+## Authors ✒️
 
-* **Manuela Torres** - *Trabajo Inicial* - [manutorres93]((https://github.com/manutorres93))
-
+* **Manuela Torres** - *Initial work* - [manutorres93]((https://github.com/manutorres93))
 
 ---
-⌨️ Plantilla de: [Villanuevand](https://github.com/Villanuevand) 😊
+⌨️ Template by: [Villanuevand](https://github.com/Villanuevand) 😊
+
+
